@@ -56,7 +56,7 @@ PLAYER_ACTIVE_FRAME_PATHS = [
 ]
 
 # Obstacle & collectible placeholders (replace with your own files later)
-OBSTACLE_IMAGE = "flappy-bird-assets/sprites/pipe-green.png"
+OBSTACLE_IMAGE = "assets/sprites/pipe-green.png"
 COLLECTIBLE_FRAME_PATHS = [
     "assets/star-coin-rotate/star-coin-rotate-1.png",
     "assets/star-coin-rotate/star-coin-rotate-2.png",
